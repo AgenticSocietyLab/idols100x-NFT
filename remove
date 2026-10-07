@@ -1,0 +1,72 @@
+Fronted Works:
+Landing Page: https://honeypotfinance.xyz/
+beta1: https://beta1.honeypotfinance.xyz/
+beta2: https://beta2.honeypotfinance.xyz/swap
+beta3: https://beta3.honeypotfinance.xyz/swap
+NFT: https://nft.honeypotfinance.xyz/reveal
+
+Co-build with BeraScout: https://www.berascout.com/
+Co-build with Kingdomly: --not ready--
+Co-build with Animuslabs(game developer companies for fable and beratone): https://honeypot-xi.vercel.app/
+
+Artio Testnet: 
+routerV2: https://artio.beratrail.io/address/0xB192af2225791c439CB2024290158d3202DbcD95,
+factory: https://artio.beratrail.io/address/0xE0D1F1cE03A7598EE7FdF7E5DB837d9726C0Ea5c/internalTx,
+ftoFactory: https://artio.beratrail.io/address/0xEd6a0A29A962B4296bCeEC4e1E55F5Ec0474EAC7,
+ftoFacade: https://artio.beratrail.io/address/0x3aCCC3dD26EeC5F6e254060906b7FA24D98E6722
+
+Backend Works:
+NFT contract(ARB): https://arbiscan.io/address/0x7c2f99c405fa3102519f2637f186c5a06c074a0f
+
+Testing Tokens:
+tHPOT: https://bartio.beratrail.io/token/0xfc5e3743E9FAC8BB60408797607352E24Db7d65E
+BTP: https://bartio.beratrail.io/address/0x2c2fc71339acdd913734a4cae9dd95d9d2b1438d
+
+DEX Beta2: 
+routerV1: https://bartio.beratrail.io/address/0x482270069ff98a0df528955b651494759b3b2f8c
+factoryV1: https://bartio.beratrail.io/address/0x2f795195bae7E61E848ffC87ba7f6ae1A06c0527/internalTx
+
+DEX Beta3:
+routerV2: https://bartio.beratrail.io/address/0x8aBc3a7bAC442Ae449B07fd0C2152364C230DA9A
+factoryV2: https://bartio.beratrail.io/address/0x7A962f6E45100b8cC560C7d2c248ec704623fb53/internalTx
+
+MEME Launchpad:
+memeFactory: https://bartio.beratrail.io/address/0xc906E2bA6AA4F6Dd8340487DD8CDeBcA65e56A8D
+memeFacade: https://bartio.beratrail.io/address/0x1D97520d3a483457bA6b2423F6eF3dbfd9bcCe0A
+
+Project Launchpad:
+ftoFacade: https://bartio.beratrail.io/address/0x0264D933F13eE993270591668CfF87b8D35Dd3b4
+ftoFactory: https://bartio.beratrail.io/address/0x7E0CCe2C9Ff537f8301dd40c652A03479B18dAef
+
+
+PoL Works:
+RewardVault: https://bartio.station.berachain.com/gauge/0x12F45203b4dF96106fb18d557EE3224A4dC65637
+InfraredVault: https://infrared.finance/vaults/0x14e88b348a577209fbf1b68566f1115fe88d5a3a
+InterPoL(THJ) Locker: https://app.notinterpol.com/locker/0xd68ccced198010596c7c63ae50d0cd23595a6606
+
+Future PoL Integration:
+HPOT is committed to becoming an accelerator for PoL. HPOT not only built a liquidity-based LaunchPad for MEME but also made toolboxes for the long-term support of MEME tokens to help them integrate into PoL.
+1. HPOT will convert all users participating in MEME Launch into Liquidity Providers;
+2. Each MEME Launch is set with liquidity management tools provided by AquaBera;
+3. HPOT have integrated Yeet's bon for all MEME to help them obtain self-built liquidity;
+4. HPOT have integrated Gummi's lending protocol for some high-quality MEMEs;
+5. HPOT and InterPoL jointly provide toolboxes for the LP lock-up of these MEMEs;
+6. HPOT provide batch listing on CEX for MEMEs with FDV > 50m by fair launch;
+7. We provide BGT Station's integrated toolset and Infrared's integrated toolset for high-quality MEMEs;
+
+--testnet 15%--
+5% for NFT, distributed by the number of NFT users held.
+8% for interact with contracts from our beta1 to beta3, across from Jan. 1st to Oct. 3rd, in total of 20k activaty users. We filtered the users who have less than 10 tnx on full testnet and also filtered the users who have received too many 300 tHPOT in their history and manually verified all these sybils.
+1% for early private testnet users who have support HPOT when we do not have any funds.
+1% for PoL staking for those who help with the LP of tHPOT-WBERA.
+
+--Mainnet 85%--
+Mainnet incentives will be distributed in a total of 12 months, distributed to users monthly.
+
+15% for launches based on FTO mode who finally integrated with PoL, more detail, 3% to the users who participated in these launches, and 12% to those who traded on these pairs.
+
+35% especially for general MEME LP and Launches, who successfully launched a MEME and actively support the LP for MEME tokens.
+
+20% for the users of the leaderboard we build to count the trading volume of tokens.
+
+15% for the users who use our NFT staking game - BeraFarm which is co-build with Fable, not only for HoneyG NFT but also for other Beras NFTs to staking here, help the projects to distribute the airdrop by a game instead of one-time airdrop.
